@@ -7,6 +7,7 @@ function Pessoa(nome, sobrenome){
     }
 }
 
+
 const p1 = new Pessoa('Caique', 'Miranda')
 console.log(p1.nome)
 console.log(p1.sobrenome)

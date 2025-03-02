@@ -35,4 +35,3 @@ console.log(resultado1 * 2)
 console.log(resultado2 - 5)
 console.log(resultado3 / 2)
 console.log(resultado4 * 10)
-
